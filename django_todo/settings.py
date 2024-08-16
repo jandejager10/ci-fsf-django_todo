@@ -32,6 +32,7 @@ SECRET_KEY = 'django-insecure-84a$dqns9lpi)0=f*wr#q*lhzqdqff6sol9t4^qb1$znp-=o+r
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-jandejager1-cifsfdjango-fkbwe51hbaj.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['ckz-django-todo-app-8aeafeca8d0d.herokuapp.com']
 
 
 # Application definition
